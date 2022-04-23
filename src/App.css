@@ -6,10 +6,10 @@ body {
 }
 
 main {
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 375px;
+    max-height: 375px;
     background-color: #0b2434;
-    padding: 20px;
+    padding: 10px;
 }
 
 .container {
